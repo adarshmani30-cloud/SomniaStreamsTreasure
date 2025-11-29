@@ -1,0 +1,274 @@
+fileFormatVersion: 2
+guid: 76ad44171cf19c641a0fcf18de5a4349
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: iPhone
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 406
+        width: 234
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5906284845a9a9343babc3a8a7dcb16c
+      internalID: 1544771440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 421
+        width: 330
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4190f7187dd5ae148991b1b4cf73066c
+      internalID: 1244628895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RealEstate
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 420
+        width: 353
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd9ff51ab111f7479b32e0e76b15995
+      internalID: 2015115126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crypto
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 436
+        width: 306
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2a4c61e9ce0414d908e3fc3f27ae2b
+      internalID: -1622096879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 64e7967faaf423840b0b40f10bed8094
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Business: 1244628895
+      ChatGPT Image Aug 22, 2025, 11_25_36 AM_10: -938380980
+      ChatGPT Image Aug 22, 2025, 11_25_36 AM_11: 1534304595
+      ChatGPT Image Aug 22, 2025, 11_25_36 AM_12: 1494049557
+      ChatGPT Image Aug 22, 2025, 11_25_36 AM_13: -1041646071
+      ChatGPT Image Aug 22, 2025, 11_25_36 AM_14: 246669807
+      ChatGPT Image Aug 22, 2025, 11_25_36 AM_15: 1487485911
+      ChatGPT Image Aug 22, 2025, 11_25_36 AM_16: -243159074
+      ChatGPT Image Aug 22, 2025, 11_25_36 AM_17: -1668778126
+      ChatGPT Image Aug 22, 2025, 11_25_36 AM_18: -780789727
+      ChatGPT Image Aug 22, 2025, 11_25_36 AM_19: 85135821
+      ChatGPT Image Aug 22, 2025, 11_25_36 AM_20: -705873547
+      ChatGPT Image Aug 22, 2025, 11_25_36 AM_21: 1226986395
+      ChatGPT Image Aug 22, 2025, 11_25_36 AM_23: 1817137482
+      ChatGPT Image Aug 22, 2025, 11_25_36 AM_24: -1170801638
+      ChatGPT Image Aug 22, 2025, 11_25_36 AM_25: 1753288794
+      ChatGPT Image Aug 22, 2025, 11_25_36 AM_26: -1181188926
+      ChatGPT Image Aug 22, 2025, 11_25_36 AM_27: -1990315172
+      ChatGPT Image Aug 22, 2025, 11_25_36 AM_28: -663892894
+      ChatGPT Image Aug 22, 2025, 11_25_36 AM_29: -1273767616
+      ChatGPT Image Aug 22, 2025, 11_25_36 AM_3: -934182632
+      ChatGPT Image Aug 22, 2025, 11_25_36 AM_30: 283508107
+      ChatGPT Image Aug 22, 2025, 11_25_36 AM_31: 1136320273
+      ChatGPT Image Aug 22, 2025, 11_25_36 AM_32: 1863812906
+      ChatGPT Image Aug 22, 2025, 11_25_36 AM_33: -1263186688
+      ChatGPT Image Aug 22, 2025, 11_25_36 AM_34: -1288680027
+      ChatGPT Image Aug 22, 2025, 11_25_36 AM_35: 1714612609
+      ChatGPT Image Aug 22, 2025, 11_25_36 AM_36: -39326230
+      ChatGPT Image Aug 22, 2025, 11_25_36 AM_37: 2133103967
+      ChatGPT Image Aug 22, 2025, 11_25_36 AM_38: 1000841547
+      ChatGPT Image Aug 22, 2025, 11_25_36 AM_39: 1890421529
+      ChatGPT Image Aug 22, 2025, 11_25_36 AM_4: 1578656978
+      ChatGPT Image Aug 22, 2025, 11_25_36 AM_40: -669382886
+      ChatGPT Image Aug 22, 2025, 11_25_36 AM_41: -487549477
+      ChatGPT Image Aug 22, 2025, 11_25_36 AM_42: -968726103
+      ChatGPT Image Aug 22, 2025, 11_25_36 AM_5: 860587914
+      ChatGPT Image Aug 22, 2025, 11_25_36 AM_6: -116317014
+      ChatGPT Image Aug 22, 2025, 11_25_36 AM_7: 2092234630
+      ChatGPT Image Aug 22, 2025, 11_25_36 AM_8: -1504613358
+      ChatGPT Image Aug 22, 2025, 11_25_36 AM_9: 1303522147
+      Crypto: -1622096879
+      RealEstate: 2015115126
+      iPhone: 1544771440
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
